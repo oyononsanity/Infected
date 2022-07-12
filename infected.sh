@@ -99,26 +99,20 @@ then
 save
 elif [ $optnz = "3" ];
 then
-about
-elif [ $optnz = "4" ];
-then
-upd
-elif [ $optnz = "5" ];
-then
 am start -a android.intent.action.VIEW -d https://instagram.com/oyononsanity > /dev/null 2>&1
 banner
 menu
-elif [ $optnz = "6" ];
+elif [ $optnz = "4" ];
 then
 am start -a android.intent.action.VIEW -d https://github.com/oyononsanity > /dev/null 2>&1
 banner
 menu
-elif [ $optnz = "7" ];
+elif [ $optnz = "5" ];
 then
 am start -a android.intent.action.VIEW -d https://discord.gg/2g7RF9gqHT > /dev/null 2>&1
 banner
 menu
-elif [ $optnz = "8" ];
+elif [ $optnz = "6" ];
 then
 exit 1
 else
