@@ -41,6 +41,7 @@ pkg install git -y
 pip install lolcat
 
 https://github.com/oyononsanity/Infected
+
 cd $HOME
 
 ls
