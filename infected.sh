@@ -1,4 +1,4 @@
-# A tool by nitro from oyononsanity
+# A tool by oyononsanity
 # Be a unique person not copy cat
 # Colours
 #-----------------
@@ -27,7 +27,7 @@ echo -e '\e[93m
 X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
 X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X'
 echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
- X# \.X        @#%,.@   Infect v3.0      @#%,.@        
+ X# \.X        @#%,.@   Infect v2.1      @#%,.@        
                 @#%,.@              @#%,.@          
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
@@ -35,8 +35,8 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                         Oyononsanity
 '
 echo " " 
-echo -e "$red                       ▶Coded by$grn noob hackers$red◀$rset"
-echo -e "$red                      ⫸$ylo  oyononsanity$red ⫷$rset"
+echo -e "$red                       ▶Coded by$grn oyon$red◀$rset"
+echo -e "$red                      ⫸$ylo  Oyononsanity$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red                    [Infect them with fun]$rset"
@@ -59,7 +59,7 @@ echo -e '\e[93m
 X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
 X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X'
 echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
- X# \.X        @#%,.@   Infect v3.0      @#%,.@        
+ X# \.X        @#%,.@   Infect v2.2      @#%,.@        
                 @#%,.@              @#%,.@          
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
@@ -67,8 +67,8 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                         Oyononsanity
 '
 echo " " 
-echo -e "$red                       ▶Coded by$grn noob hackers$red◀$rset"
-echo -e "$red                      ⫸$ylo  oyononsanity$red ⫷$rset"
+echo -e "$red                       ▶Coded by$grn oyon$red◀$rset"
+echo -e "$red                      ⫸$ylo  Oyononsanity$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red                    [Infect them with fun]$rset"
@@ -83,7 +83,7 @@ echo -e "$red                        ➡$cyan [\e[92m1\e[96m] Infect now"
 echo -e "$red                        ➡$cyan [\e[92m2\e[96m] Save now"
 echo -e "$red                        ➡$cyan [\e[92m3\e[96m] About"
 echo -e "$red                        ➡$cyan [\e[92m4\e[96m] Update script "
-echo -e "$red                        ➡$cyan [\e[92m5\e[96m] Subscribe"
+echo -e "$red                        ➡$cyan [\e[92m5\e[96m] Follow"
 echo -e "$red                        ➡$cyan [\e[92m6\e[96m] More"
 echo -e "$red                        ➡$cyan [\e[92m7\e[96m] Chat"
 echo -e "$red                        ➡$cyan [\e[92m8\e[96m] Exit"
@@ -117,7 +117,7 @@ banner
 menu
 elif [ $optnz = "7" ];
 then
-am start -a android.intent.action.VIEW -d https://github.com/oyononsanity > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://discord.gg/2g7RF9gqHT > /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "8" ];
@@ -206,12 +206,13 @@ echo -e '\e[91m
          ─▐─█────█─▌─
          ────▌──▐────
 '
-echo -e "\e[93m                  CALL ME \e[92mSanity" | pv -qL 10
+echo -e "\e[93m                  CALL ME \e[92mOyon" | pv -qL 10
 echo -e "\e[93m             IAM FROM \e[92mOyononsanity" | pv -qL 10
 echo -e "\e[93m       IM A \e[92mGEEK\e[93m WITH LOTS OF EXCITEMENT" | pv -qL 10
 echo -e "\e[93m             HOPE YOU LIKE THIS SCRIPT" | pv -qL 10
 echo -e "\e[93m         OOPS... I TALK A LOT SRY FOR THAT " | pv -qL 10
-echo -e "\e[93m        MY Insta:\e[92m https://instagram.com/oyononsanity\e[0m" | pv -qL 10
+echo -e "\e[93m              JOIN GROUPS ON \e[92mDiscord" | pv -qL 10
+echo -e "\e[93m        MY Discord:\e[92m https://discord.gg/2g7RF9gqHT\e[0m" | pv -qL 10
 echo -e "\e[92m                BYEE.............." | pv -qL 10
 sleep 6.0
 banner
@@ -236,7 +237,7 @@ echo -e "         \e[96mUPDATE IS GOING ON, PLEASE WAIT FOR A WHILE...!\e[0m"
 echo
 printf "                     \e[96m["
 # While process is running...
-while https://github.com/oyononsanity/Infected 2> /dev/null; do 
+while git clone https://github.com/noob-hackers/infect 2> /dev/null; do 
     printf  "\e[92m▓▓▓▓▓▓▓▓▓▓▓▓▓\e[0m"
     sleep 1
 done
