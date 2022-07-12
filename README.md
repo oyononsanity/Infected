@@ -1,22 +1,22 @@
-ABOUT TOOL :
-# Infected
+# ABOUT TOOL :
+ Infected
 Infected is a bash based script which is officially made for termux users and from this tool you can spread android virus by just sending link. This tool works on both rooted Android device and Non-rooted Android device. Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Use.
 
 
-AVAILABLE ON :
+# AVAILABLE ON :
 Termux
 
-TESTED ON :
+# TESTED ON :
 Termux
 
-REQUIREMENTS :
+# REQUIREMENTS :
 internet
 external storage permission
 storage 400 MB
 1gb ram
 
 
-FEATURES :
+# FEATURES :
 
 [+] Dangerous virus tool !
 [+] Updated maintainence !
@@ -26,7 +26,7 @@ FEATURES :
 
 
 
-INSTALLATION [Termux] :
+# INSTALLATION [Termux] :
 
 apt-get update -y
 apt-get upgrade -y
@@ -45,7 +45,7 @@ bash infect.sh
 [+]-- Note:- Don't delete any of the scripts included in lol directory (folder)
 
 
-USAGE OPTIONS [Termux] :
+# USAGE OPTIONS [Termux] :
 INFECT :
 
 From this option you will get link of virus in your termux just send that link to your victim and let the fun happen.
@@ -62,5 +62,5 @@ From this option you can exit from infect tool
 
 
 
-WARNING :
+# WARNING :
 This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.
